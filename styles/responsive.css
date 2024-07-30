@@ -69,7 +69,6 @@
     }
 
 
-
   section.portada .adorno{
     display: none;
   }
@@ -80,7 +79,7 @@
 
   section.portada .portada-container {
     width: 100%;
-    padding-bottom: 0;
+    padding-bottom: 150px;
   }
 
   section.cuenta-regresiva .box-aros{
