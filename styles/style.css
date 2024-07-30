@@ -3,14 +3,22 @@
 :root {
 
 
-    --color-1: #4A6360;
+    --color-1: #002e5a;
     --color-2: #81948B;
     --color-3: #C6D7CF;
     --color-4: #FAF7F3;
     --color-5: #EFEDE7;
     --color-6: #868686;
     --color-7: #BFA880;
+    
   
+/* 
+    --color-1: #002E5A;
+    --color-2: #AEDCEB;
+    --color-3: #E1F2F9;
+    --color-4: #818B94;
+    --color-5: #E3E6E5; */
+
   
     /* Fuentes */
   
@@ -1837,7 +1845,7 @@
   .song {
     position: absolute;
   
-          top: 70px;
+          top: 30px;
           right: 1px;
          
           z-index: 1000;
