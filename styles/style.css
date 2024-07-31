@@ -286,15 +286,17 @@
   
   section.portada .portada-container {
     width: 45%;
-    background: var(--color-3);
+    background: url('../img/glitter.jpg') var(--color-1) no-repeat center center;
+    background-size: cover;
     padding-bottom: 60px;
     position: relative;
-  }
+}
+
   
   section.portada .portada-container .portada-container-2 {
     width: 100%;
     max-width: 610px;
-    background: var(--color-3);
+
     padding-bottom: 60px;
     position: relative;
   }
