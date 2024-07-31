@@ -760,7 +760,7 @@
   }
   
   section.ceremonia-fiesta:after {
-    background-image: url('../img/curva02.svg');
+    background-image: url('../img/img_ondas02.svg');
     position: absolute;
     content: '';
     background-size: contain !important;
@@ -907,7 +907,7 @@
   }
   
   section.fiesta:after {
-    background-image: url('../img/curva03.svg');
+    background-image: url('../img/img_ondas02.svg');
     position: absolute;
     content: '';
     background-size: contain !important;
@@ -1052,7 +1052,7 @@
   
   
   section.instagram:before {
-    background-image: url('../img/curva04.svg');
+    background-image: url('../img/img_ondas02.svg');
     position: absolute;
     content: '';
     background-repeat: no-repeat;
